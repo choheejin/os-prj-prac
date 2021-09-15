@@ -21,5 +21,7 @@ public class Ex04 {
 
         boolean single = scanner.nextBoolean(); // 다음 토큰을 boolean 타임으로 리턴
         System.out.print("독신 여부는 "+single+"입니다.");
+
+        scanner.close();
     }
 }

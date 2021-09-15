@@ -21,5 +21,7 @@ public class Prac6 {
         else
             if(one==3 || one==6 || one ==9)
                 System.out.println("박수짝");
+
+        scanner.close();
     }
 }

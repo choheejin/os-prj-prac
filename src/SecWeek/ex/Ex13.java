@@ -22,5 +22,7 @@ public class Ex13 {
         }
         else
             System.out.println("불합격!"); // 점수가 60점 미만일 때
+
+        scanner.close();
     }
 }

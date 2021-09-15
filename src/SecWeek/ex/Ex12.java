@@ -22,5 +22,7 @@ public class Ex12 {
             grade = 'F';
 
         System.out.println("학점은 "+ grade+ "입니다.");
+
+        scanner.close();
     }
 }

@@ -36,5 +36,6 @@ public class Prac12_2 {
             default:
                 System.out.println("잘못 입력하셨습니다.");
         }
+        scanner.close();
     }
 }

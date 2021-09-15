@@ -26,5 +26,7 @@ public class Prac8 {
             System.out.println("(100, 100), (200, 200)의 두점으로 이루어진 직사각형과 충돌합니다.");
         else
             System.out.println("(100, 100), (200, 200)의 두점으로 이루어진 직사각형과 충돌하지 않습니다.");
+
+        scanner.close();
     }
 }

@@ -29,5 +29,7 @@ public class Ex14 {
         }
 
         System.out.println("학점은 "+ grade+ "입니다.");
+
+        scanner.close();
     }
 }

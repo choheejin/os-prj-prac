@@ -25,5 +25,7 @@ public class Ex15 {
 
         if(price != 0)
             System.out.print(order+"는 " + price + "원입니다.");
+
+        scanner.close();
     }
 }

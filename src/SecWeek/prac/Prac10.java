@@ -22,5 +22,7 @@ public class Prac10 {
             System.out.println("두 원은 서로 겹친다.");
         else
             System.out.println("두 원은 서로 겹치지 않는다.");
+
+        scanner.close();
     }
 }
