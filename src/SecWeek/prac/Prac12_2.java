@@ -2,7 +2,7 @@ package SecWeek.prac;
 
 import java.util.Scanner;
 
-public class prac12_2 {
+public class Prac12_2 {
     public static void main(String[] args) {
         System.out.print("연산>>");
         Scanner scanner = new Scanner(System.in);

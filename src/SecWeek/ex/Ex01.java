@@ -1,6 +1,6 @@
 package SecWeek.ex;
 
-public class ex1 {
+public class Ex01 {
     public static int sum(int n, int m){
         return n+m;
     }

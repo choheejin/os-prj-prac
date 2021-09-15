@@ -1,6 +1,6 @@
 package SecWeek.ex;
 
-public class ex8 {
+public class Ex08 {
     public static void main(String[] args) {
         int a = 3, b = 5;
 

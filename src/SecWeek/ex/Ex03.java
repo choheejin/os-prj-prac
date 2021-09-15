@@ -1,6 +1,6 @@
 package SecWeek.ex;
 
-public class ex3 {
+public class Ex03 {
     public static void main(String[] args) {
         byte b = 127; // int 타입은 byte 로 자동 변환이 불가능하다. (큰 타입이 작은 타입으로 변환되기 때문)
         int i = 100;

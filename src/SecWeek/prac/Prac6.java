@@ -2,7 +2,7 @@ package SecWeek.prac;
 
 import java.util.Scanner;
 
-public class prac6 {
+public class Prac6 {
     public static void main(String[] args) {
         System.out.print("1~99 사이의 정수를 입력하시오>>");
         Scanner scanner = new Scanner(System.in);

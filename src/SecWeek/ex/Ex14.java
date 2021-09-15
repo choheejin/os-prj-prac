@@ -2,7 +2,7 @@ package SecWeek.ex;
 
 import java.util.Scanner;
 
-public class ex14 {
+public class Ex14 {
     public static void main(String[] args) {
         char grade;
         Scanner scanner = new Scanner(System.in);

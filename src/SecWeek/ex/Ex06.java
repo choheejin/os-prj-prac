@@ -1,6 +1,6 @@
 package SecWeek.ex;
 
-public class ex6 {
+public class Ex06 {
     public static void main(String[] args) {
         // 대입연산자 사용
         int a = 3, b = 3, c =3;

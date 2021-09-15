@@ -2,7 +2,7 @@ package SecWeek.prac;
 
 import java.util.Scanner;
 
-public class prac2 {
+public class Prac2 {
     public static void main(String[] args){
         System.out.print("2자리수 정수 입력(10~99)>>");
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package SecWeek.ex;
 
 import java.util.Scanner;
 
-public class ex10 {
+public class Ex10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

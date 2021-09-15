@@ -1,6 +1,6 @@
 package SecWeek.ex;
 
-public class ex7 {
+public class Ex07 {
     public static void main(String[] args) {
         // 비교 연산자 사용
         System.out.println('a' > 'b'); // false

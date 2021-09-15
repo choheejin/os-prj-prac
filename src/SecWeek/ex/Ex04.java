@@ -2,7 +2,7 @@ package SecWeek.ex;
 
 import java.util.Scanner;
 
-public class ex4 {
+public class Ex04 {
     public static void main(String[] args) {
         System.out.println("이름, 도시, 나이, 체중, 독신 여부를 빈칸으로 분리하여 입력하세요");
         Scanner scanner = new Scanner(System.in); // Scanner 객체 생성

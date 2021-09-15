@@ -2,7 +2,7 @@ package SecWeek.prac;
 
 import java.util.Scanner;
 
-public class prac10 {
+public class Prac10 {
     public static void main(String[] args) {
         System.out.print("첫번째 원의 중심과 반지름 입력>>");
         Scanner scanner = new Scanner(System.in);

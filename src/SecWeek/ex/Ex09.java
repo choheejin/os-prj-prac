@@ -1,6 +1,6 @@
 package SecWeek.ex;
 
-public class ex9 {
+public class Ex09 {
     public static void main(String[] args) {
         // 비트 논리 연산
         short a = (short) 0x55ff;

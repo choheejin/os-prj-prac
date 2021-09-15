@@ -2,7 +2,7 @@ package SecWeek.prac;
 
 import java.util.Scanner;
 
-public class prac4 {
+public class Prac4 {
     public static void main(String[] args) {
         System.out.print("정수 3개 입력>>");
         Scanner scanner = new Scanner(System.in);

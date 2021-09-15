@@ -1,6 +1,6 @@
 package SecWeek.ex;
 
-public class ex2 {
+public class Ex02 {
     public static void main(String[] args){
         final double PI = 3.14; // 상수 선언
 
