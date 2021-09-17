@@ -17,5 +17,6 @@ public class Prac6 {
                 System.out.println(unit[i]+"원 짜리 : " + (int)money/unit[i]);
             money = money%unit[i];
         }
+        scanner.close();
     }
 }
