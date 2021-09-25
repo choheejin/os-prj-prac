@@ -5,6 +5,7 @@
 목차   
 [1. 2주차](#bookmark-2주차)  
 [2. 3주차](#bookmark-3주차)
+[3. 4주차](#bookmark-4주차)
 
 ## :bookmark: 2주차
 
@@ -51,3 +52,15 @@
 
 ### 3주차 .hwp 파일 업로드 [hwp]
 - [x] `21.09.18 05:13 pm` 3장 실습문제 `hwp 파일` GitHub 업로드 완료
+
+
+## :bookmark: 4주차
+
+### 4주차 실습 문제 [src/FourthWeek.ex]
+- [x] 예제 4-1 `Circle01` : Circle 클래스의 객체 생성 및 활용
+- [x] 예제 4-2 `Rectangle` : Rectangle 클래스 만들기 연습
+- [x] 예제 4-3 `Circle02` : 두 개의 생성자를 가진 Circle 클래스
+- [x] 예제 4-4 `Book` : 생성자 선언 및 활용 연습
+- [x] 예제 4-5 `Book02` : this()로 다른 생성자 호출
+- [x] 예제 4-6 `Circle03`, `CircleArray` : Circle 객체 배열 만들기
+- [x] 예제 4-7 `Book03`, `BookArray` : 객체 배열 만들기 연습
